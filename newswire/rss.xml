@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>CognOS newswire fixture</title>
+    <link>https://example.org/newswire-fixture/</link>
+    <description>A fixture feed for CognOS live tests. Every item is invented.</description>
+    <language>en</language>
+    <item>
+      <title>Fixture item two</title>
+      <link>https://example.org/newswire-fixture/items/2?utm_source=rss</link>
+      <guid isPermaLink="false">cognos-fixture-newswire-2</guid>
+      <pubDate>Mon, 12 Oct 2026 08:00:00 GMT</pubDate>
+      <description>The newer fixture item. Its link carries a tracking parameter that canonicalUrl removes.</description>
+    </item>
+    <item>
+      <title>Fixture item one</title>
+      <link>https://example.org/newswire-fixture/items/1</link>
+      <guid isPermaLink="false">cognos-fixture-newswire-1</guid>
+      <pubDate>Mon, 12 Oct 2026 07:00:00 GMT</pubDate>
+      <description>The older fixture item. A live test edits this item's title.</description>
+    </item>
+  </channel>
+</rss>
