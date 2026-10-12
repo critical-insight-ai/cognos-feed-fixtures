@@ -13,7 +13,7 @@
       <description>The newer fixture item. Its link carries a tracking parameter that canonicalUrl removes.</description>
     </item>
     <item>
-      <title>Fixture item one, corrected</title>
+      <title>Fixture item one</title>
       <link>https://example.org/newswire-fixture/items/1</link>
       <guid isPermaLink="false">cognos-fixture-newswire-1</guid>
       <pubDate>Mon, 12 Oct 2026 07:00:00 GMT</pubDate>
